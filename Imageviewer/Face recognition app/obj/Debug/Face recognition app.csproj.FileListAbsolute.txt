@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Face recognition app\Face recognition app\bin\Debug\Face recognition app.exe.config
+C:\Users\User\source\repos\Face recognition app\Face recognition app\bin\Debug\Face recognition app.exe
+C:\Users\User\source\repos\Face recognition app\Face recognition app\bin\Debug\Face recognition app.pdb
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face recognition app.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face_recognition_app.Form1.resources
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face_recognition_app.Properties.Resources.resources
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face recognition app.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face recognition app.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face recognition app.exe
+C:\Users\User\source\repos\Face recognition app\Face recognition app\obj\Debug\Face recognition app.pdb
